@@ -1,3 +1,10 @@
+let teamOneName = "Clowns";
+let teamTwoName = "Cups";
+let scoreOne = 0;
+let scoreTwo = 0;
+let freeThrow = 1;
+let twoPointShot = 2;
+let threePointShot = 3;
 // DECLARE YOUR VARIABLES HERE
 
 
